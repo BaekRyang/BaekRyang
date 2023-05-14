@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekRyang&card_width=450&layout=compact&theme=tokyonight)](https://github.com/BaekRyang)
 
-[![Work](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=Skyscraper&card_width=450&theme=tokyonight)]([https://github.com/BaekRyang/At-the-end-of-Chaos](https://github.com/BaekRyang/Skyscraper))
+[![Work](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=Skyscraper&card_width=450&theme=tokyonight)](https://github.com/BaekRyang/TheLabyrinthos)
