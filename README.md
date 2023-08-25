@@ -10,8 +10,8 @@
 ---
 ## 소개
  * 게임 개발을 하는 Programmer 입니다.
- * Name : <b>Yun Jeong Min</b>
- * Language : C++, C#, Python, Java
+ * Name : ![Name](https://img.shields.io/badge/Jeong_Min-Yun-gray?style=flat&labelColor=green&color=blue)
+ * Language : ![](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white&color=%2300599C) ![](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white&color=%23239120) ![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=%233776AB)
  * Contact : graywolf147@gmail.com
   
 ## Now
