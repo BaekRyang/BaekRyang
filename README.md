@@ -19,4 +19,8 @@
  * Director 및 Programmer로 작업중
 <br>
 
-[![Work](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=ProjectR&card_width=450&theme=tokyonight)](https://github.com/BaekRyang/ProjectR)  
+<div align=center>
+   
+[![Work](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=ProjectR&card_width=450&theme=tokyonight)](https://github.com/BaekRyang/ProjectR)
+[![Study](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=BaekRyang&card_width=450&theme=tokyonight)](https://github.com/BaekRyang/BaekRyang/tree/main/Journal)
+</div>
