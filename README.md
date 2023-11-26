@@ -15,7 +15,7 @@
  * Contact : graywolf147@gmail.com
   
 ## Now
- * New Project 게임 제작중
+ * APEXIUM 게임 제작중
  * Director 및 Programmer로 작업중
 <br>
 
