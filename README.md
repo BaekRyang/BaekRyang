@@ -15,12 +15,10 @@
  * Contact : graywolf147@gmail.com
   
 ## Now
- * APEXIUM 게임 제작중
- * Director 및 Programmer로 작업중
+ * People&Story 재직중
 <br>
 
 <div align=center>
    
-[![Work](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=ProjectR&card_width=450&theme=tokyonight)](https://github.com/BaekRyang/ProjectR)
 [![Study](https://github-readme-stats.vercel.app/api/pin/?username=BaekRyang&repo=BaekRyang&card_width=450&theme=tokyonight)](https://github.com/BaekRyang/BaekRyang/tree/main/Journal)
 </div>
